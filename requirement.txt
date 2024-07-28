@@ -2,3 +2,13 @@ httpx
 protobuf
 bsdiff4
 enlighten
+zipfile
+hashlib
+bz2
+io
+json
+struct
+os
+payload_dumper
+update_metadata_pb2
+um
