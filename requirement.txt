@@ -2,7 +2,6 @@ httpx
 protobuf
 bsdiff4
 enlighten
-zipfile
 hashlib
 bz2
 io
